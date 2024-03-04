@@ -1,17 +1,16 @@
-Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> # Solución 1
-... 
-... num1 = "22"
-... num2 = "8"
-... 
-... num3 = num1 + num2
-... 
-... 
-... # Solución 2
-... 
-... num = "22" + "8"
-... 
-... 
-... # Solución 3
-... 
+# Solución 1
+
+numero1 = "22"
+numero2 = "8"
+
+numero3 = numero1 + numero2
+
+
+# Solución 2
+
+numero = "22" + "8"
+
+
+# Solución 3
+
+print("22" + "8")

@@ -1,8 +1,7 @@
-Python 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> nombre = Luis
-... apellido1 = Ruvalcaba
-... apellido2 = Torrontegui
-... 
-... nombre_completo = nombre +   + apellido1 +   + apellido2
-... 
+nombre = "Luis"
+apellido1 = "Ruvalcaba"
+apellido2 = "Torrontegui"
+
+nombre_completo = nombre + " " + apellido1 + " " + apellido2
+
+print(nombre_completo)
