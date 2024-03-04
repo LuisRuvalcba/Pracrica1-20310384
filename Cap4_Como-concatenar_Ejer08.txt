@@ -1,3 +1,0 @@
-palabra1 = "Hola "
-palabra2 = "mundo."
-frase = palabra1 + palabra2

@@ -1,3 +1,0 @@
-tex1 = 'Prueba de comillas simples.'
-
-tex2 = "Prueba de comillas dobles."
