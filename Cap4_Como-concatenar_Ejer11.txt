@@ -1,0 +1,16 @@
+# Solución 1
+
+num1 = "22"
+num2 = "8"
+
+num3 = num1 + num2
+
+
+# Solución 2
+
+num = "22" + "8"
+
+
+# Solución 3
+
+print("22" + "8")
